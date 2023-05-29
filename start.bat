@@ -1,2 +1,2 @@
 @ECHO OFF
-php -S 192.168.0.103:3000 -t .
+php -S your-local-host-device-ip(192.168.0.XX):53547(LFLIX) -t .
